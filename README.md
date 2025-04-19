@@ -4,12 +4,12 @@
 
 Currently, I work as a full-stack web developer using C# and ReactJS, leveraging Cloud and AI technologies through Azure. My main specialty lies in code architecture and back-end development.
 
-##### Contact me here
+#### 💬 Contact me here 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pincolini-amaral-117876191/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigopincoliniamaral@gmail.com)
 
-##### Tools and technologies that i currently working with</h2>
+#### 🔧 Tools and technologies that i currently working with 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45"/>
