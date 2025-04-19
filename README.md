@@ -28,7 +28,7 @@ Currently, I work as a full-stack web developer using C# and ReactJS, leveraging
 ![](https://komarev.com/ghpvc/?username=RodrigoPAml)
 
 ## Projects
-In this repository, you'll find some of my hobby projects and personal code experiments. Let's take a quick overview:
+Here you'll find some of my hobby projects and personal code experiments. Let's take a quick overview:
 
 ### Manco (my programming language)
 
