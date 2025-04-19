@@ -40,8 +40,8 @@ You can find some games and applications built with this engine here:
 - **[2D Ray Tracer](https://github.com/RodrigoPAml/RayTracer2D)**: a basic 2D ray tracer written in GLSL, with a functional prototype.
 - **[Fractal](https://github.com/RodrigoPAml/MandelbrotFractal)**: a Mandelbrot fractal rendered using BoxEngine.
 
-### Fullstack templates
+### Web development templates
 
-You can find some sample projects showcasing a well-structured full-stack web application — the back-end is available [here](https://github.com/RodrigoPAml/TasksAPI) , and the front-end (https://github.com/RodrigoPAml/TasksFront-Vite).
+You can find some sample projects showcasing a well-structured full-stack web application — the back-end is available [here](https://github.com/RodrigoPAml/TasksAPI) , and the front-end [here](https://github.com/RodrigoPAml/TasksFront-Vite).
 
 The back-end is built with ASP.NET using a clean architecture approach and Domain-Driven Design (DDD) principles. The front-end is a modern React app that consumes this API, following a clean and scalable project structure.
