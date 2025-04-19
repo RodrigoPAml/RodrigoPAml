@@ -25,6 +25,8 @@ Currently, I work as a full-stack web developer using C# and ReactJS, leveraging
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=RodrigoPAml)
+
 ## Projects
 In this repository, you'll find some of my hobby projects and personal code experiments. Let's take a quick overview:
 
