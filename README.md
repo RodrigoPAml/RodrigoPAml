@@ -35,11 +35,10 @@ While it's still a work in progress and doesn't yet include all the features I h
 
 ![engine](https://github.com/user-attachments/assets/ff54ca31-1f0b-4fb5-acb4-2b5ed14e17d5)
 
-You can find some of the games/applications make on this engine here:
-- **[Air Fighter](https://github.com/RodrigoPAml/AirFighter):** a game of air combat with a single level and final boss.
-- **[Ray Tracer](https://github.com/RodrigoPAml/RayTracer2D)** 2D: a ray tracer writed with GLSL with a basic working version
-- **[Fractal](https://github.com/RodrigoPAml/MandelbrotFractal)**: a 2D fractal running on BoxEngine
-
+You can find some games and applications built with this engine here:
+- **[Air Fighter](https://github.com/RodrigoPAml/AirFighter):**  an air combat game featuring a single level and a final boss.
+- **[2D Ray Tracer](https://github.com/RodrigoPAml/RayTracer2D)**: a basic 2D ray tracer written in GLSL, with a functional prototype.
+- **[Fractal](https://github.com/RodrigoPAml/MandelbrotFractal)**: a Mandelbrot fractal rendered using BoxEngine.
 
 ### Fullstack templates
 
