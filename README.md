@@ -33,7 +33,7 @@ Here you'll find some of my **hobby projects** and **personal code experiments**
 ### Manco (my programming language)
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
   <img src="https://github.com/user-attachments/assets/2f6a0f7f-5571-46d7-8e21-1f9360885f21" alt="manco" width="100%">
 </td>
 <td>
@@ -49,7 +49,7 @@ This [project](https://github.com/RodrigoPAml/MancoLanguage) took around three m
 ### Minecraft with OpenGL from scratch
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
   <img src="https://github.com/user-attachments/assets/9600adb5-24cd-48ce-a0b4-6123c07cda0c" alt="mine" width="100%">
 </td>
 <td>
@@ -65,7 +65,7 @@ The terrain is procedurally generated, and you can place and remove blocks just 
 ### Software Rasterizer
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
   <img src="https://github.com/user-attachments/assets/264d5c7b-6f64-405d-9c44-5816d3ce1a6b" alt="raster" width="100%">
 </td>
 <td>
@@ -81,7 +81,7 @@ The [project](https://github.com/RodrigoPAml/SoftwareRasterizer) includes everyt
 ### Box engine
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
   <img src="https://github.com/user-attachments/assets/ff54ca31-1f0b-4fb5-acb4-2b5ed14e17d5" alt="engine" width="100%">
 </td>
 <td>
