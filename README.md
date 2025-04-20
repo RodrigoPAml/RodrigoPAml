@@ -31,40 +31,70 @@ Currently, I work as a full-stack web developer using C# and ReactJS, leveraging
 Here you'll find some of my hobby projects and personal code experiments. Let's take a quick overview:
 
 ### Manco (my programming language)
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github.com/user-attachments/assets/2f6a0f7f-5571-46d7-8e21-1f9360885f21" alt="manco" width="100%">
+</td>
+<td>
 
-I've always been curious about how programming languages work, but for a long time, I had no idea where to start. Eventually, that curiosity turned into code.
-This [project](https://github.com/RodrigoPAml/MancoLanguage) took around three months to complete with C# — it's a custom programming language that either compiles to MIPS-based assembly or transpiles to C++. Here's a GIF showcasing it:
+I've always been curious about how programming languages work, but for a long time, I had no idea where to start. Eventually, that curiosity turned into code.  
+This [project](https://github.com/RodrigoPAml/MancoLanguage) took around three months to complete with C# — it's a custom programming language that either compiles to MIPS-based assembly or transpiles to C++.  
 
-![manco](https://github.com/user-attachments/assets/2f6a0f7f-5571-46d7-8e21-1f9360885f21)
-
+</td>
+</tr>
+</table>
 
 ### Minecraft with OpenGL from scratch
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github.com/user-attachments/assets/9600adb5-24cd-48ce-a0b4-6123c07cda0c" alt="mine" width="100%">
+</td>
+<td>
 
-As a computer graphics enthusiast, I built a Minecraft clone from scratch as the final project for my Advanced Computer Graphics class during graduation.
-The terrain is procedurally generated, and you can place and remove blocks just like in the original game. You can check out the project [here](https://github.com/RodrigoPAml/MinecraftFromScratch), along with a cool GIF below:
+As a computer graphics enthusiast, I built a Minecraft clone from scratch as the final project for my Advanced Computer Graphics class during graduation.  
+The terrain is procedurally generated, and you can place and remove blocks just like in the original game. You can check out the project [here](https://github.com/RodrigoPAml/MinecraftFromScratch).
 
-![mine](https://github.com/user-attachments/assets/9600adb5-24cd-48ce-a0b4-6123c07cda0c)
+</td>
+</tr>
+</table>
 
 ### Software Rasterizer
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github.com/user-attachments/assets/264d5c7b-6f64-405d-9c44-5816d3ce1a6b" alt="raster" width="100%">
+</td>
+<td>
 
-I've always been curious about how 3D worlds are rendered on 2D screens. To dive deeper into this, I implemented a complete software rasterizer from scratch in C++, running entirely on the CPU.
+I've always been curious about how 3D worlds are rendered on 2D screens. To dive deeper into this, I implemented a complete software rasterizer from scratch in C++, running entirely on the CPU.  
+The [project](https://github.com/RodrigoPAml/SoftwareRasterizer) includes everything from 3D transformations and perspective projection to triangle rasterization, depth buffering and lighting.
 
-The [project](https://github.com/RodrigoPAml/SoftwareRasterizer) includes everything from 3D transformations and perspective projection to triangle rasterization, depth buffering and lighting. Here's the result:
-
-![raster](https://github.com/user-attachments/assets/264d5c7b-6f64-405d-9c44-5816d3ce1a6b)
+</td>
+</tr>
+</table>
 
 ### Box engine
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github.com/user-attachments/assets/ff54ca31-1f0b-4fb5-acb4-2b5ed14e17d5" alt="engine" width="100%">
+</td>
+<td>
 
-[BoxEngine](https://github.com/RodrigoPAml/BoxEngine) is a hobby game engine designed for building games, especially 2D ones. It follows a game object architecture and uses Lua with a JIT compiler as its scripting language.
-
-While it's still a work in progress and doesn't yet include all the features I have in mind, it's already capable of building 2D games with ease. Let’s take a look:
-
-![engine](https://github.com/user-attachments/assets/ff54ca31-1f0b-4fb5-acb4-2b5ed14e17d5)
+[BoxEngine](https://github.com/RodrigoPAml/BoxEngine) is a hobby game engine designed for building games, especially 2D ones. It follows a game object architecture and uses Lua with a JIT compiler as its scripting language.  
+While it's still a work in progress and doesn't yet include all the features I have in mind, it's already capable of building 2D games with ease.
 
 You can find some games and applications built with this engine here:
-- **[Air Fighter](https://github.com/RodrigoPAml/AirFighter):**  an air combat game featuring a single level and a final boss.
-- **[2D Ray Tracer](https://github.com/RodrigoPAml/RayTracer2D)**: a basic 2D ray tracer written in GLSL, with a functional prototype.
-- **[Fractal](https://github.com/RodrigoPAml/MandelbrotFractal)**: a Mandelbrot fractal rendered using BoxEngine.
+
+- **[Air Fighter](https://github.com/RodrigoPAml/AirFighter):** an air combat game featuring a single level and a final boss.  
+- **[2D Ray Tracer](https://github.com/RodrigoPAml/RayTracer2D):** a basic 2D ray tracer written in GLSL, with a functional prototype.  
+- **[Fractal](https://github.com/RodrigoPAml/MandelbrotFractal):** a Mandelbrot fractal rendered using BoxEngine.
+
+</td>
+</tr>
+</table>
 
 ### Web development templates
 
