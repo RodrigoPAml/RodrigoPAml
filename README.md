@@ -28,7 +28,7 @@ Currently, I work as a full-stack web developer using C# and ReactJS, leveraging
 ![](https://komarev.com/ghpvc/?username=RodrigoPAml)
 
 ## Projects
-Here you'll find some of my hobby projects and personal code experiments. Let's take a quick overview:
+Here you'll find some of my **hobby projects** and **personal code experiments**. Let's take a quick overview:
 
 ### Manco (my programming language)
 <table>
@@ -39,6 +39,7 @@ Here you'll find some of my hobby projects and personal code experiments. Let's 
 <td>
 
 I've always been curious about how programming languages work, but for a long time, I had no idea where to start. Eventually, that curiosity turned into code.  
+
 This [project](https://github.com/RodrigoPAml/MancoLanguage) took around three months to complete with C# — it's a custom programming language that either compiles to MIPS-based assembly or transpiles to C++.  
 
 </td>
@@ -54,6 +55,7 @@ This [project](https://github.com/RodrigoPAml/MancoLanguage) took around three m
 <td>
 
 As a computer graphics enthusiast, I built a Minecraft clone from scratch as the final project for my Advanced Computer Graphics class during graduation.  
+
 The terrain is procedurally generated, and you can place and remove blocks just like in the original game. You can check out the project [here](https://github.com/RodrigoPAml/MinecraftFromScratch).
 
 </td>
@@ -69,6 +71,7 @@ The terrain is procedurally generated, and you can place and remove blocks just 
 <td>
 
 I've always been curious about how 3D worlds are rendered on 2D screens. To dive deeper into this, I implemented a complete software rasterizer from scratch in C++, running entirely on the CPU.  
+
 The [project](https://github.com/RodrigoPAml/SoftwareRasterizer) includes everything from 3D transformations and perspective projection to triangle rasterization, depth buffering and lighting.
 
 </td>
@@ -83,7 +86,8 @@ The [project](https://github.com/RodrigoPAml/SoftwareRasterizer) includes everyt
 </td>
 <td>
 
-[BoxEngine](https://github.com/RodrigoPAml/BoxEngine) is a hobby game engine designed for building games, especially 2D ones. It follows a game object architecture and uses Lua with a JIT compiler as its scripting language.  
+[BoxEngine](https://github.com/RodrigoPAml/BoxEngine) is a hobby game engine designed for building games, especially 2D ones. It follows a game object architecture and uses Lua with a JIT compiler as its scripting language. 
+
 While it's still a work in progress and doesn't yet include all the features I have in mind, it's already capable of building 2D games with ease.
 
 You can find some games and applications built with this engine here:
